@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="age">आयु</string>
+    <string name="email">ईमेल</string>
+    <string name="name">नाम</string>
+    <string name="password">कुंजिका</string>
+    <string name="sign_up">साइन अप करें</string>
+    <string name="student_id">"छात्र आईडी "</string>
+</resources>

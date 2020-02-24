@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">PracticeWork</string>
+    <string name="name">Name</string>
+    <string name="student_id">Student Id</string>
+    <string name="age">Age</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
